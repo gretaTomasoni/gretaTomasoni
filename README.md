@@ -1,6 +1,6 @@
 ## Hello, world! 👋
 
-Welcome to my GitHub profile.
+Welcome to my GitHub profile. <br>
 I'm a **frontend developer** with a passion for creating stunning, user-friendly web experiences. 
 
 As a **graphic design graduate,** I strive to create websites that are both creative and functional, with a focus on responsive design, accessibility, and user experience. I believe that good design should be accessible to everyone, and I'm committed to making the web a more inclusive and user-friendly place. 
