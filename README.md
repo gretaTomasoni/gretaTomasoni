@@ -15,8 +15,8 @@ As a **graphic design graduate,** I strive to create websites that are both crea
 </div>
 <br>
 
-If you're interested in working with me, please feel free to [contact me](mailto:greta51198@gmail.com). <br>
-If I'm not crafting code, you'll find me sipping on a cup of coffee, binge-watching TV series, or taking bike rides around the city.
+When I'm not crafting code, you'll find me sipping on a cup of coffee, binge-watching TV series, or taking bike rides around the city.<br>
+If you're interested in working with me, please feel free to [contact me](mailto:greta51198@gmail.com). 
 <br>
 <br>
 ps: I'm not a very good copy so this text was created by chatGPT.
