@@ -3,7 +3,9 @@
 Welcome to my GitHub profile. <br>
 I'm a **frontend developer** with a passion for creating stunning, user-friendly web experiences. 
 
-As a **graphic design graduate,** I strive to create websites that are both creative and functional, with a focus on responsive design, accessibility, and user experience. I believe that good design should be accessible to everyone, and I'm committed to making the web a more inclusive and user-friendly place. 
+As a **graphic design graduate,** I strive to create websites that are both creative and functional, with a focus on responsive design, accessibility, and user experience. I believe that good design should be accessible to everyone, and I'm committed to making the web a more inclusive and user-friendly place.
+
+When I'm not crafting code, you'll find me sipping on a cup of coffee, binge-watching TV series, or taking bike rides around the city.<br>
 
 #### 🛠️ Skills and technologies:
 <div>
@@ -15,7 +17,7 @@ As a **graphic design graduate,** I strive to create websites that are both crea
 </div>
 <br>
 
-When I'm not crafting code, you'll find me sipping on a cup of coffee, binge-watching TV series, or taking bike rides around the city.<br>
+
 If you're interested in working with me, please feel free to [contact me](mailto:greta51198@gmail.com). 
 <br>
 <br>
